@@ -1,0 +1,7 @@
+{
+  "items": [
+    { "id": 1, "name": "Milk", "description": "Moo!" },
+    { "id": 2, "name": "Bread", "description": "Fresh from the bakery." },
+    { "id": 3, "name": "Cheese", "description": "Nice and stinky, the way Dave likes it!" },
+  ]
+}
